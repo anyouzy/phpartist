@@ -1,0 +1,19 @@
+{
+    "name": "anyouzy/phpartist",
+    "description": "php code for artist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "anyouzy",
+            "email": "anyouzy@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "anyouzy\\phpartist\\":"src/"
+        }
+    }
+}
